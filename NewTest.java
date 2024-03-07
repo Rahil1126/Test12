@@ -26,12 +26,10 @@ public class NewTest {
 	  
 	  driver.get("http://www.google.com/");    
 	  
-	  
-
 	  driver.manage().window().maximize();
 
 	  
-	  
+	  //Please add the wait commands 
 
 	   
 	 
